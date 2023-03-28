@@ -1,0 +1,27 @@
+
+.navbar {
+    overflow: visible !important;;
+    background-color: #ffc7c7 !important;
+    position: fixed;
+    top: 0;
+    width: 100%; 
+
+  }
+.nav-pills .nav-link.active, .nav-pills .show .nav-link 
+{
+  background-color: #ffbfbf;
+  color: #ffffff;
+}
+
+.body {
+    margin: 100px !important;
+    background-color: rgb(166, 166, 166);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    }
+    h1 {
+    font-size: 100px;
+    font-weight: normal;
+    margin-top: 5px;
+    }
+
