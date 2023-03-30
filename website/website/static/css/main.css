@@ -1,21 +1,26 @@
-
+nav{
+  text-decoration: none;
+}
 .navbar {
     overflow: visible !important;;
-    background-color: #ffc7c7 !important;
+    background-color: #dacaca !important;
     position: fixed;
     top: 0;
     width: 100%; 
-
-  }
+}
+  ul.nav a:hover { color: #fff !important; }
 .nav-pills .nav-link.active, .nav-pills .show .nav-link 
 {
-  background-color: #ffbfbf;
+  background-color: #7b7b7b;
   color: #ffffff;
 }
-
+.nav-link{
+  color:#ffffff
+  
+}
 .body {
     margin: 100px !important;
-    background-color: rgb(166, 166, 166);
+    background-color: rgb(255, 89, 89);
     font-family: arial, sans-serif;
     font-size: 14px;
     }
